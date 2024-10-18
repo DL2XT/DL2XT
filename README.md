@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tom @DL2XT
-- 👀 I’m interested in **Amatteur Radio** an Emergency Communications
+- 👀 I’m interested in **Amateur Radio** an Emergency Communications
 - 📫 You can reach me via the **Winlink** network or on the air, mostly on the 20m band or localy on 70cm/2m band
 
 <!---
